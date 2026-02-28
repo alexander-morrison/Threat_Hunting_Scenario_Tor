@@ -254,30 +254,12 @@ DeviceFileEvents
 
 ---
 
-# 📄 Documentation
-
-## ✅ Created By
-
-- **Author Name:**  
-- **Author Contact:**  
-- **Date:** February 27, 2026  
-
----
-
-## ✅ Validated By
-
-- **Reviewer Name:**  
-- **Reviewer Contact:**  
-- **Validation Date:**  
-
----
-
 # 📝 Revision History
 
 | Version | Changes | Date | Modified By |
 |----------|----------|------------|--------------|
-| 1.0 | Initial draft | Feb. 27, 2026 | Alexander Morrison |
-| 1.1 | Enhanced formatting, expanded detection logic | February 27, 2026 | — |
+| 1.0 | Initial draft | September  6, 2024 | Josh Madakor |
+| 1.1 | Enhanced formatting, expanded detection logic | February 27, 2026 | Alexander Morrison |
 
 ---
 
